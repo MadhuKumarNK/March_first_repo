@@ -1,2 +1,2 @@
 Try to do main merge file. i am updting the 1st line in the main branch, lets check conflict between main branch and new barnch1.
-i am adding in the extra line in the new_branch1.
+i am adding in the extra line in the new_branch1. i am updating to check the conflict merge
